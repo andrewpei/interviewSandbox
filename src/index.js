@@ -7,4 +7,3 @@
 */
 
 angular.module('interviewSandbox', [])
-  .controller();
